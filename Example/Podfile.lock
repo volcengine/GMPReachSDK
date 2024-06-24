@@ -1,0 +1,16 @@
+PODS:
+  - GMPReachSDK (0.1.0)
+
+DEPENDENCIES:
+  - GMPReachSDK (from `../`)
+
+EXTERNAL SOURCES:
+  GMPReachSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GMPReachSDK: e302f338e2e5cae7ab0ccf2dc6c364f7c067f6bc
+
+PODFILE CHECKSUM: c15a37d5fc0e7e4de04692f78b04c7141affb0a4
+
+COCOAPODS: 1.15.2

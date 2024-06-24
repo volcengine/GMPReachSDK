@@ -1,0 +1,6 @@
+framework module GMPReachSDK {
+  umbrella header "GMPReachSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
