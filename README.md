@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'GMPReachSDK'
 ```
 
-## Author
-
-xiamingyu, xiamingyu@bytedance.com
-
 ## License
 
 GMPReachSDK is available under the MIT license. See the LICENSE file for more info.
